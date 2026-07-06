@@ -9,3 +9,5 @@
 Библиотека  LiquidCrystal_I2C
 
 экран можно найтй [здесь](https://aliexpress.ru/item/1005003785193247.html?shpMethod=CAINIAO_SUPER_ECONOMY&sku_id=12000027160767297&spm=a2g2w.productlist.search_results.0.6ec01f80xJsXs2)
+
+чтобы подключить дисплей по i2c нужен [драйвер](https://aliexpress.ru/item/1005012627330481.html?shpMethod=CAINIAO_ECONOMY&sku_id=12000058861383870&spm=a2g2w.productlist.search_results.4.386e4eb65B63fj)
