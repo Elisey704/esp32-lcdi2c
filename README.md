@@ -13,4 +13,4 @@
 чтобы подключить дисплей по i2c нужен [драйвер](https://aliexpress.ru/item/1005012627330481.html?shpMethod=CAINIAO_ECONOMY&sku_id=12000058861383870&spm=a2g2w.productlist.search_results.4.386e4eb65B63fj)
 
 
-чтобы указать разрешение дисплея `LiquidCrystal_I2C lcd(адрес i2c,длинна строк,количиство слов);`
+чтобы указать разрешение дисплея `LiquidCrystal_I2C lcd(адрес i2c,длинна строк,количиство строк);`
