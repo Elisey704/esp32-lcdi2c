@@ -17,5 +17,5 @@ void loop()
   lcd.setCursor(1, 1);
   lcd.print(i);
   i++;
-  delay(500);
+  delay(1000);
 }
